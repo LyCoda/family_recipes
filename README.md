@@ -10,10 +10,8 @@ spreads (TODO)
 >>>>>>> Updated README with project description
 
 * Pizzas (TODO)
++ * pizzas
++   - [base](./pizzas/base.md)
 * Sauces (TODO)
 * Spreads (TODO)
 
-
-- * pizzas(TODO)
-+ * pizzas
-+   - [base](./pizzas/base.md)
